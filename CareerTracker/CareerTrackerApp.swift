@@ -7,11 +7,10 @@
 
 import SwiftUI
 
-@main
 struct CareerTrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TopView()
         }
     }
 }
